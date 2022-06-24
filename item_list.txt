@@ -1,0 +1,12 @@
+Aqua
+4 14
+Bimoli
+6 20
+Top
+3 10
+Indomie
+5 17
+Mie Sedaap
+5 15
+Ademsari
+3 12
